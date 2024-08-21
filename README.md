@@ -18,8 +18,7 @@ This is a simple Flask application that uses Hugging Face's Transformers library
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    https://github.com/krishkrishna03/text_summarization.git
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
